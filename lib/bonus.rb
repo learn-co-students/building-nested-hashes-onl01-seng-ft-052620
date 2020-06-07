@@ -16,10 +16,11 @@ def bonus
       :heroine_friends => [
           {name: "Mercutio", age: "18", attitude: "hot-headed"}, 
           {name: "Nurse", age: "44", attitude: "worried"}
-      ]
-   }
-  }
-status_change=epic_tragedy[:hero][:status]
-status_change[0] << "dead"
 
-end
+     ]
+   }
+}
+
+end 
+ 
+  

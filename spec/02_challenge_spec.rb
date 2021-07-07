@@ -8,5 +8,5 @@ describe "#second_challenge" do
     expect(second_challenge[:montague].values).to eq([{}, {}, {}, []])
     expect(second_challenge[:capulet].values).to eq([{}, {}, {}, []])
 
-  end
+end
 end
